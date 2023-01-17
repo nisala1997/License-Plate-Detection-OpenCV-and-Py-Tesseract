@@ -3,8 +3,10 @@ Easy and Simple Python code to detect the license plate and crop that number pla
 
 <br>Youtube <a>https://github.com/nisala1997/License-Plate-Detection-OpenCV-and-Py-Tesseract/new/master?readme=1<br>
 
-<h2>Image</h2>
-<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
+<h2>Processing Images</h2>
+  <body>
+<img src="/Screenshot .png">
+    </body>
 
 # Project Requirements
 <li>Raspberry Pi version 3 or + <br>
